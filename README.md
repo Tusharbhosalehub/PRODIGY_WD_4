@@ -5,3 +5,4 @@ The Weather App is a modern and intuitive web application designed to provide us
 ## Key Features
 1. Real-Time Updates: Stay ahead of the weather with instant, real-time updates on current conditions.
 2. User-Friendly Interface: Experience an intuitive and visually appealing design for effortless navigation.
+3. Location Precision: The app automatically detects your location, offering personalized weather insights.
