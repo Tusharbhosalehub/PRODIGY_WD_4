@@ -10,3 +10,4 @@ The Weather App is a modern and intuitive web application designed to provide us
 5. Detailed Forecast: Access comprehensive information including temperature, humidity, and wind speed.
 
 ## Tech Stack
+* HTML: Shapes the structure and layout of the application.
