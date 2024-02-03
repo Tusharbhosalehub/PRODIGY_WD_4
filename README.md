@@ -8,3 +8,5 @@ The Weather App is a modern and intuitive web application designed to provide us
 3. Location Precision: The app automatically detects your location, offering personalized weather insights.
 4. Search Functionality: Explore weather conditions in any location by entering a city name.
 5. Detailed Forecast: Access comprehensive information including temperature, humidity, and wind speed.
+
+## Tech Stack
