@@ -13,3 +13,4 @@ The Weather App is a modern and intuitive web application designed to provide us
 * HTML: Shapes the structure and layout of the application.
 * CSS: Enhances the visual aesthetics and ensures a responsive design.
 * JavaScript: Drives dynamic functionality and enables a smooth user experience.
+* API Integration: Leverages a weather API for accurate and up-to-date weather data.
