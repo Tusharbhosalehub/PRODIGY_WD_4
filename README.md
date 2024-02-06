@@ -11,3 +11,4 @@ The Weather App is a modern and intuitive web application designed to provide us
 
 ## Tech Stack
 * HTML: Shapes the structure and layout of the application.
+* CSS: Enhances the visual aesthetics and ensures a responsive design.
